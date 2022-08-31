@@ -1,1 +1,6 @@
-Hola mundo, este es un archivo que subiré
+Hola mundo GitHub
+
+lista de compras:
+- pan
+- acelga
+- a
